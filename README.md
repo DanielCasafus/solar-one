@@ -4,7 +4,10 @@ solar-one
 Para editar...
 
 
+
 Equipo
 =========
-*Daniel López 
-*Edison Villegas
+* Daniel López 
+* Edison Villegas
+* 
+* Edison feo
