@@ -1,7 +1,6 @@
 solar-one
-=========
-
-Para editar...
+========
+Creacion de dispositivo para moviles 
 
 
 
